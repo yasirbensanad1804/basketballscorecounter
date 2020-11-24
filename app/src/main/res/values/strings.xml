@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">basketball score counter</string>
+    <string name="teamname">Type Your Team Name Here</string>
+</resources>
